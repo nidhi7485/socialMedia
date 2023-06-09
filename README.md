@@ -76,20 +76,6 @@ A MERN stack based project on social media application with Realtime Chat. It is
  
 ![Screen Shot 2022-09-13 at 5 06 52 PM](https://user-images.githubusercontent.com/77838959/189939979-b409517f-7c6c-479d-978c-b7c45019d4ed.png)
 
-- Post
-
-![Screen Shot 2022-09-13 at 5 16 58 PM 1](https://user-images.githubusercontent.com/77838959/189940364-b73e087f-0e6b-4e29-892d-29933ea5ad43.png)
-- Post (Like - Comment)
-
-![Screen Shot 2022-09-13 at 5 07 48 PM 1](https://user-images.githubusercontent.com/77838959/189940395-dad9571d-4472-4282-8f58-b7931195fe2e.png)
-- Profile
-
-
-![Screen Shot 2022-09-13 at 5 18 10 PM](https://user-images.githubusercontent.com/77838959/189940771-5dab7b1a-dfc2-4279-a0f1-c94554edd3c4.png)
-
-
-
-
 - Login and Register 
 ![Screen Shot 2022-09-13 at 5 34 48 PM](https://user-images.githubusercontent.com/77838959/189944829-f3f20167-1389-4526-b801-a952c28c9ce0.png)
 ![Screen Shot 2022-09-13 at 5 34 53 PM](https://user-images.githubusercontent.com/77838959/189944856-0d310de5-943b-41aa-9192-7cee878b42b7.png)
